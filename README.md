@@ -34,7 +34,7 @@ Saving to: ‘config.yaml’
 
 2021-05-01 22:39:38 (287 KB/s) - ‘config.yaml’ saved [44830/44830]
 
-[root@localhost clash]# wget -O Country.mmdb https://www.sub-speeder.com/client-download/Country.mmdb
+[root@localhost clash]# wget -O Country.mmdb https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb
 --2021-05-01 22:39:55--  https://www.sub-speeder.com/client-download/Country.mmdb
 Resolving www.sub-speeder.com (www.sub-speeder.com)... 172.67.182.209, 104.21.18.176, 2606:4700:3035::ac43:b6d1, ...
 Connecting to www.sub-speeder.com (www.sub-speeder.com)|172.67.182.209|:443... connected.
