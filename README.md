@@ -81,7 +81,6 @@ INFO[0000] Start initial compatible provider GlobalTV
 ### 四、测试验证
 
 - 通过curl命令访问www.google.com，响应正常。
-- 部分（我的TnT）服务器会出现curl可通，ping不通的情况，求大神告知~
 ![image](https://user-images.githubusercontent.com/43178911/116800843-2fe4b200-ab37-11eb-96fd-5a6ad01ac29b.png)
 
 ### 五、配置开机自启动
