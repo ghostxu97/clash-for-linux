@@ -6,7 +6,7 @@ Linux环境安装配置Clash工具，以实现代理上网效果。包含下载�
 
 ---
 
-### 一、下载[clash for linux](https://drive.rocklinuxmirror.eu.org/index.php/s/5MndEnkeqzpiiS2/download?path=%2F&files=clash-linux-amd64-v1.18.0.gz)
+### 一、下载[clash for linux](https://drive.cn-v1-oss.eu.org/d/4b68087528ca4936b189/)
 - 原地址已失效，请使用[镜像地址](https://drive.cn-v1-oss.eu.org/d/4b68087528ca4936b189/)下载
 - ~~[https://github.com/Dreamacro/clash/releases](https://github.com/Dreamacro/clash/releases)~~
 - 下载时需注意服务器位数是64还是32位，本文档中使用的64位
