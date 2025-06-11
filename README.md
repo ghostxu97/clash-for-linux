@@ -104,7 +104,7 @@ Description=clash daemon
 [Service]
 Type=simple
 User=root
-ExecStart=/opt/clash/clash -d /opt/clash/clash/
+ExecStart=/opt/clash/clash -d /opt/clash/
 Restart=on-failure
 
 [Install]
